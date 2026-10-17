@@ -1,6 +1,7 @@
 {
   "name": "nuxt-app",
   "private": true,
+  "packageManager": "pnpm@10.34.7",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -13,13 +14,13 @@
     "@nuxt/ui": "2.22.3",
     "@nuxtjs/color-mode": "^3.5.2",
     "nuxt": "^3.21.11",
-    "vue": "^3.5.43",
+    "vue": "^3.5.44",
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.14.0",
     "autoprefixer": "^10.6.1",
-    "postcss": "^8.5.28",
+    "postcss": "^8.5.30",
     "tailwindcss": "^3.4.19"
   }
 }
